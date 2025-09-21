@@ -8,7 +8,7 @@
 
 # 🚀 About Me
 
-Saya adalah seorang **Full-stack Developer** yang _passionate_ dengan dunia teknologi dan pemrograman. Saya memiliki kemampuan untuk membangun aplikasi dari awal hingga akhir, mulai dari desain antarmuka pengguna hingga implementasi _backend_. Saat ini, saya adalah mahasiswa **S1 Informatika** di **Universitas Telkom Surabaya** yang antusias dalam belajar hal-hal baru dan mengembangkan _skill_ saya di berbagai bidang _development_.
+Saya adalah seorang **Mahasiswa IT** yang _passionate_ dengan dunia teknologi dan pemrograman. Saya memiliki kemampuan untuk membangun website dari awal hingga akhir, mulai dari desain antarmuka pengguna hingga implementasi _backend_. Saat ini saya juga sedang tertarik dan antusias dengan yang namnya **AI dan ML (Artificial Intelligence dan Machine Learning)**. Saat ini, saya adalah mahasiswa **S1 Informatika** di **Universitas Telkom Surabaya** yang antusias dalam belajar hal-hal baru dan mengembangkan _skill_ saya di berbagai bidang _development_ atapun _pemrograman_.
 
 ---
 
@@ -57,8 +57,8 @@ Tools yang biasa saya pakai:
    * **Website Brevio**: [primamahardika06/Brevio](https://primamahardika06.github.io/Brevio/) // On progress
    * **Website Desa Penglipuran**: [primamahardika06/Penglipuran](https://primamahardika06.github.io/Penglipuran/)
    * **Website Fito.io**: [primamahardika06/Fito.io](https://primamahardika06.github.io/Fito.io/)
-   * **Website Cryvex**: [primamahardika06/cryvex](https://primamahardika06.github.io/cryvex/)
-   * **Projek Python**: [primamahardika06/python](https://github.com/primamahardika06/python) // On progress
+   * **Website Cryvex**: [primamahardika06/cryvex](https://primamahardika06.github.io/cryvex/)  // On progress
+   * **Projek Python**: [primamahardika06/python](https://github.com/primamahardika06/python)
 
 ---
 
