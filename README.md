@@ -73,10 +73,6 @@ Tools yang biasa saya pakai:
 
 ---
 
-<img src="https://raw.githubusercontent.com/primamahardika06/primamahardika06/output/snake.svg" alt="Snake animation" />
-
-###
-
 ## 🌐 Lets Connect with Me!
 
 Anda bisa menemukan saya di beberapa _platform_ berikut:
