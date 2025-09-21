@@ -12,7 +12,7 @@ Saya adalah seorang **Full-stack Developer** yang _passionate_ dengan dunia tekn
 
 ---
 
-## 🛠️ Technical Capabilities
+## 🛠️ Skills
 
 Saya memiliki pengalaman dan keahlian dalam beberapa teknologi inti yang digunakan dalam pengembangan _web_ dan lainnya:
 
@@ -21,6 +21,19 @@ Saya memiliki pengalaman dan keahlian dalam beberapa teknologi inti yang digunak
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+</p>
+
+---
+
+## Tools
+
+Tools yang biasa saya pakai:
+
+<p align="left">
+  <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
 </p>
 
 ---
@@ -45,7 +58,7 @@ Saya memiliki pengalaman dan keahlian dalam beberapa teknologi inti yang digunak
    * **Website Desa Penglipuran**: [primamahardika06/Penglipuran](https://primamahardika06.github.io/Penglipuran/)
    * **Website Fito.io**: [primamahardika06/Fito.io](https://primamahardika06.github.io/Fito.io/)
    * **Website Cryvex**: [primamahardika06/cryvex](https://primamahardika06.github.io/cryvex/)
-   * **Projek Python**: [primamahardika06/python](https://github.com/primamahardika06/python)
+   * **Projek Python**: [primamahardika06/python](https://github.com/primamahardika06/python) // On progress
 
 ---
 
