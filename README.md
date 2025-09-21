@@ -70,7 +70,6 @@ Tools yang biasa saya pakai:
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=primamahardika06&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
----
 
 <p align="left">🎯Lets Play Game</p>
 
@@ -87,7 +86,6 @@ Tools yang biasa saya pakai:
 <img src="https://raw.githubusercontent.com/primamahardika06/primamahardika06/output/snake.svg" alt="Snake animation" />
 
 ###
----
 
 ## 🌐 Lets Connect with Me!
 
