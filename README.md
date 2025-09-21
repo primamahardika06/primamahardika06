@@ -25,7 +25,7 @@ Saya memiliki pengalaman dan keahlian dalam beberapa teknologi inti yang digunak
 
 ---
 
-## Tools
+## 🔧 Tools
 
 Tools yang biasa saya pakai:
 
@@ -72,14 +72,31 @@ Tools yang biasa saya pakai:
 
 ---
 
+<p align="left">🎯Lets Play Game</p>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/primamahardika06/primamahardika06/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/primamahardika06/primamahardika06/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/primamahardika06/primamahardika06/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<img src="https://raw.githubusercontent.com/primamahardika06/primamahardika06/output/snake.svg" alt="Snake animation" />
+
+###
+---
+
 ## 🌐 Lets Connect with Me!
 
 Anda bisa menemukan saya di beberapa _platform_ berikut:
 
-* **GitHub Repository**: [primamahardika06/primamahardika](https://github.com/primamahardika06/primamahardika.git)
-* **Instagram**: [@prima_mahardika06](https://www.instagram.com/prima_mahardika06/)
-* **Email**: [primaodut06@gmail.com](mailto:primaodut06@gmail.com)
-* **LinkedIn**: [Prima Mahardika](https://www.linkedin.com/in/prima-mahardika-7281ab345)
+![https://www.instagram.com/prima_mahardika06/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+![https://www.tiktok.com/@whatsmyname226?is_from_webapp=1&sender_device=pc](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)
+![https://www.linkedin.com/in/prima-mahardika-7281ab345](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![https://wa.me/6285960336954](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white)
 
 Terima kasih sudah berkunjung!
 
